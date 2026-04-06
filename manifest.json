@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Shortcut Launcher",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
+{
+  "manifest_version": 3,
+  "name": "Shortcut Launcher",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
